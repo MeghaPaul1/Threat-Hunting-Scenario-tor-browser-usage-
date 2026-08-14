@@ -76,7 +76,7 @@ DeviceFileEvents
 
 ## Created By:
 - **Author Name**: Megha Paul
-- **Author Contact**: https://www.linkedin.com/in/joshmadakor/
+- **Author Contact**: https://www.linkedin.com/in/MeghaPaul1/
 - **Date**: August 12,2026
 
 ## Validated By:
@@ -94,4 +94,4 @@ DeviceFileEvents
 ## Revision History:
 | **Version** | **Changes**                   | **Date**         | **Modified By**   |
 |-------------|-------------------------------|------------------|-------------------|
-| 1.0         | Initial draft                  | `August 31, 2024`  | `Megha Paul`   
+| 1.0         | Initial draft                  | `August 31, 2026`  | `Megha Paul`   
